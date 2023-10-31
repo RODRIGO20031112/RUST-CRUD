@@ -1,0 +1,4 @@
+shell commands
+
+>> wsl (need WSL install)
+>> cargo run (need RUST istalled on WSL)
